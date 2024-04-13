@@ -1,0 +1,9 @@
+
+.inputData{
+    position: relative;
+}
+#cross{
+position: absolute;
+right: 70px;
+top: 10px;
+}

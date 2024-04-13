@@ -1,0 +1,12 @@
+#title{
+    font-size: 13px;
+    text-align: justify;
+}
+.heading{
+    color: red;
+}
+#img:hover{
+    cursor: pointer;
+    transition: all linear 0.4;
+    scale: 1.3;
+}
